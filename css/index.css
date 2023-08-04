@@ -202,6 +202,35 @@ nav .logo
     font-size: 700;
     margin-bottom: 1rem;
 }
+.flex-item-two button
+{
+    display: inline-block;
+    padding: 0.7rem 1.5rem;
+    font-family: var(--lato);
+    line-height: 18px;
+    border-radius: 24px;
+}
+.white-btn
+{
+    background-color: transparent;
+    border: 2px solid var(--primary-txt);
+    color: white;
+}
+.white-btn:hover
+{
+    border:2px solid var(--secondary-txt);
+}
+.green-btn
+{
+    background-color: var(--primary-txt);
+    border: 2px solid var(--primary-txt);
+    color: white;
+}
+.green-btn:hover
+{
+    background-color: transparent;
+    border:2px solid var(--secondary-txt);
+}
 .flex-item-two
 {
     margin-bottom: 4rem;
