@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Libre+Baskerville:wght@400;700&display=swap');
+
+:root
+{
+    --primary-color: #286256;
+    --secondary-color: #E8B132;
+    --primary-bg-color: #fff;
+    --libre: 'Libre Baskerville', serif;
+    --lato: 'Lato', sans-serif;
+}
+html
+{
+    font-size: 95%;
+    scroll-behavior: smooth;
+    scroll-padding-top: 4rem;
+}
